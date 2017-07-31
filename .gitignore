@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+udacity-deep-learning/notMNIST_large.tar.gz
+udacity-deep-learning/notMNIST_large/
+udacity-deep-learning/notMNIST_small.tar.gz
+udacity-deep-learning/notMNIST_small/
+udacity-deep-learning/notMNIST.pickle
+
